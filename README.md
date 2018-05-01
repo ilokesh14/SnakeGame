@@ -1,2 +1,2 @@
 # SnakeGame
-Snake Game build using Swing .
+Snake Game handcodedly bulit using Java Swing and jacco Library used for background sound . No other libraries are used everything is done through code ...
